@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Health and Happiness" />
+              <option name="title_text" value="Health and Happiness_demo" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1564,7 +1564,7 @@
         </slidelink>
         <slidelink slideid="_player.6qZ8zMIfXdV" displaytext="Самокоучинг 1" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6qZ8zMIfXdV.5oyu3cZ98SI" displaytext="2.4 task" expand="false" type="slide" />
+            <slidelink slideid="_player.6qZ8zMIfXdV.5oyu3cZ98SI" displaytext="Самокоучинг1" expand="false" type="slide" />
             <slidelink slideid="_player.6qZ8zMIfXdV.66wv6Gy1glp" displaytext="2.4 task 2" expand="false" type="slide" />
             <slidelink slideid="_player.6qZ8zMIfXdV.64ewEQ0K73j" displaytext="2.4 task 3" expand="false" type="slide" />
             <slidelink slideid="_player.6qZ8zMIfXdV.6Digs3HWrmI" displaytext="2.4 task 4" expand="false" type="slide" />
@@ -1578,7 +1578,7 @@
         </slidelink>
         <slidelink slideid="_player.6I8XU3dosYW" displaytext="Самокоучинг 3" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6I8XU3dosYW.6Hrm6JYgOtD" displaytext="2.2_Самокоучинг2" expand="false" type="slide" />
+            <slidelink slideid="_player.6I8XU3dosYW.6Hrm6JYgOtD" displaytext="Самокоучинг3" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5dLqURoZjRY" displaytext="Упражнение 1" expand="true" type="slide">
@@ -1586,9 +1586,14 @@
             <slidelink slideid="_player.5dLqURoZjRY.6hU2FliOukT" displaytext="1.2 чекап" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6eyZnoCuhQ4" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6eyZnoCuhQ4" displaytext="Упражнение 2" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6eyZnoCuhQ4.5cspURojotM" displaytext="Do nothing" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6N5n9BA2U2l" displaytext="Упражнение 3" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6N5n9BA2U2l.5zq2lIgdr8Z" displaytext="Just watch" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
